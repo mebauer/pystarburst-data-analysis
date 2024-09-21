@@ -8,7 +8,7 @@ This notebook accompanies the course [Use PyStarburst for Data Analysis](https:/
 To reproduce the results and follow along, you'll need to set up your environment in Starburst. You can prepare your environment by visiting: https://academy.starburst.io/getting-started-with-pystarburst/192527.
 
 # 2. Notebook
-Explore the notebook: [raw-flight.ipynb](https://github.com/mebauer/pystarburst-data-analysis/blob/main/raw-flight.ipynb).
+Explore the notebook: [aviation.ipynb](https://github.com/mebauer/pystarburst-data-analysis/blob/main/aviation.ipynb).
 
 # 3. Data
 From the course:
